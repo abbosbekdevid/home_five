@@ -1,1 +1,1 @@
-savol = "vaqtim kamligi sabaliy shu oxirgisi boldi"    
+savol = "The end"    

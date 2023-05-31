@@ -1,0 +1,1 @@
+savol = "Ustoz bularni takrorlab yozaverib yod bolib ketti hammasini teksirib chiqasizmi!!!"
